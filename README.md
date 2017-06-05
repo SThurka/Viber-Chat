@@ -4,7 +4,7 @@ Sending messages
 <li>Create a project</li>
 <ol type='1'>
 <li>Copy and paste package folder in your project.</li>
-<li>Copy and paste the web.php into resources folder.</li>
+<li>Copy and paste the web.php into routes folder.</li>
 </ol>
 <li>Installation of guzzle </li>
 <ol>
