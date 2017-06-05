@@ -1,2 +1,2 @@
 # Viber-Chat
-Chatting
+Sending messages
